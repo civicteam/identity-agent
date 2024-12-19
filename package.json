@@ -67,7 +67,7 @@
     "typescript-transform-paths": "^2.2.3"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.6.0",
+    "@aws-sdk/client-s3": "^3.715.0",
     "bitcoinjs-lib": "^5.2.0",
     "bs58": "^4.0.1",
     "debug": "^4.3.1",
